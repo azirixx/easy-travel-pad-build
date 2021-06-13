@@ -37,8 +37,7 @@ he red boxes are where the FSR’s go, and the green lines are where the connect
 
 ![alt text](https://lh4.googleusercontent.com/pQVOHZWkJp4AkNxsHN6x-B3AayUMqLBKSfOIJ8bRpzCJaMdBuc1rxHpz5vVNEsODbDKHBi066Wwgkn3obAounRks8G3ikfKsGUaZWY5H6pNzaRlFeI0r-OhJaKI0SzWRz-GwGsKy)
 
-Here is a video guide that I made which explains everything I just did:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HUUXpGWz8Wc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Here is a video guide that I made which explains everything I just did: https://www.youtube.com/watch?v=HUUXpGWz8Wc
 
 ## Wiring
 Now we’re on to the wiring stage. This is probably the hardest part of building this pad, which is still pretty easy. 
@@ -71,7 +70,7 @@ Each color obviously represents a different sensor. Using the other images above
 4. Once everything is connected, velcro your breadboard down to the top right corner of the board (to the right of the up arrow panel, above the right arrow panel). 
 
 Here is a video that I made which explains wiring: 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/a4EGyhCXONA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://www.youtube.com/watch?v=a4EGyhCXONA
 
 ## Software 
 
