@@ -37,7 +37,8 @@ he red boxes are where the FSR’s go, and the green lines are where the connect
 
 ![alt text](https://lh4.googleusercontent.com/pQVOHZWkJp4AkNxsHN6x-B3AayUMqLBKSfOIJ8bRpzCJaMdBuc1rxHpz5vVNEsODbDKHBi066Wwgkn3obAounRks8G3ikfKsGUaZWY5H6pNzaRlFeI0r-OhJaKI0SzWRz-GwGsKy)
 
-Here is a video guide that explains everything I just did: COMING SOON
+Here is a video guide that I made which explains everything I just did:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HUUXpGWz8Wc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Wiring
 Now we’re on to the wiring stage. This is probably the hardest part of building this pad, which is still pretty easy. 
@@ -69,6 +70,9 @@ Each color obviously represents a different sensor. Using the other images above
 
 4. Once everything is connected, velcro your breadboard down to the top right corner of the board (to the right of the up arrow panel, above the right arrow panel). 
 
+Here is a video that I made which explains wiring: 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/a4EGyhCXONA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Software 
 
 I don’t need to explain anything here. Just follow [teejusb's guide](https://github.com/teejusb/fsr)
@@ -82,3 +86,9 @@ Lastly, tape wires together and down to the board for cable management. This is 
 Thanks for following this guide!
 
 If you have any questions, DM me on discord: Azirixx#6186
+
+## Playtest
+
+**VIDEO WILL BE OUT SOON**
+
+This pad works amazingly. Works for everything. Stamina, ECFA, DDR Originals, and anything you throw at it. Since it uses FSRs for sensors, it's obvious that it's going to work pretty well. Also very easy to slide just as pro stamina players do. This pad can easily handle high BPM stamina and won't drop inputs. Also, the polycarbonate panels are pretty durable.
