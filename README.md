@@ -15,7 +15,7 @@ Hello gamers, this is probably the most in-depth travel pad guide you will find.
 | [Micro USB Cable](https://www.amazon.com/s?k=micro+usb+cable&crid=2AK4RHF2IM0ZI&sprefix=micro+usb+cab%2Caps%2C472&ref=nb_sb_ss_ts-doa-p_1_13) _any length, whatever you need to go from machine to pad_              | depends on  what you get |
 | [Wires for FSR’s](https://www.amazon.com/EDGELEC-Breadboard-Optional-Assorted-Multicolored/dp/B07GD2BWPY/ref=sr_1_4?dchild=1&keywords=breadboard+jumper+wires&qid=1623441650&sr=8-4) _wires that go around the pad_                                         | $5                       |
 | [FSR's](https://buyinterlinkelectronics.com/products/fsr-model-408-300mm-length?_pos=4&_sid=0b9c66a78&_ss=r) _order 4_                                                                        | $25                      |
-| [Velcro ](https://www.amazon.com/dp/B08KP577YY/ref=cm_sw_r_cp_api_glt_fabc_YWBVSZGYMP9SHNM5W80G)                                                                                 | $12                      |
+| [Velcro ](https://www.amazon.com/VELCRO-Brand-Mounting-Adhesive-Concrete/dp/B09BNPHCZX/ref=sr_1_4?crid=25L34I0GGKYVJ&keywords=velcro+tape&qid=1643228556&sprefix=velcro+tape%2Caps%2C84&sr=8-4)                                                                                 | $12                      |
 | [Scotch Tape](https://www.amazon.com/Learning-Resources-MMM3105-Scotch-Inches/dp/B016XTHB0I/ref=sr_1_3?dchild=1&keywords=scotch+tape&qid=1623441773&sr=8-3) _for wires and cable management_                                           | $6                       |
 | [Panels](https://www.tapplastics.com/product/plastics/cut_to_size_plastic/polycarbonate_sheets/516) _order these to the sizing on the image,  the three corner panels are optional_ | $70                      |
 
@@ -26,6 +26,9 @@ Total: $175 (not including micro usb, again, depends on what you get)
 # Guide
 
 ## Attaching Panels
+**USE THINNER VELCRO THAN PICTURED, USE 1" OR SO**
+
+
 1. Place your panels on the board to where you want them, and outline them with a pencil. It should be in this order, as if you’ve never seen a pad before.
 ![alt text](https://lh6.googleusercontent.com/LfSvpIpiNeRMPY35QtFitAa-Rq6XzXbZxiHji6KSWBoUBoTlnM3SqHOq0oGH5dkS3Gs9LRX_jpIL9IMzovk7FtBEVs-FH0lOmeXi1yF-bL5XureB1JrrrftcqjBJKw44Xkdl5CX5)
 
